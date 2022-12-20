@@ -1,0 +1,66 @@
+
+body {
+    background-color: #081320;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    color: #ACC8E5;
+    margin: 0px;
+    padding: 0px;
+}
+.menu{
+    height: 100%;
+  width: 25%;
+  position: fixed;
+  z-index: 100;
+}
+.menu table{
+    margin-top: 50%;
+}
+.menu table a{
+  text-decoration: none;
+  color:  yellow;
+  display: block;
+}
+th:hover{
+    background-color: #acc8e579;
+    border-radius: 10px;
+    display: block;
+}
+.main_c{
+    margin-left: 30%;
+}
+.jumbotron{
+    background-image: url(/images/jbg.jpg); 
+    color: yellow;
+    
+}
+.jumbotron p{
+    margin: 0px;
+}
+.dp{
+   display: inline-block;
+    /* margin-left: auto;
+    margin-right: auto; */
+    border-radius: 50%;
+    float:right;
+
+}
+.h6ed{
+    color:rgb(7, 234, 241);
+}
+#profPos{
+    margin-top: 0px;
+}
+#carObj{
+    background-color: #081320a6;
+    padding: 15px;
+    border-radius: 5px;
+    color:#ACC8E5;
+    font-style: oblique;
+    font-size:15px;
+}
+
+#kskil{
+    background-color: #112A46;
+    border-radius: 10px;
+}
