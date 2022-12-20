@@ -27,7 +27,7 @@ th:hover{
     display: block;
 }
 .main_c{
-    margin-left: 30%;
+    margin-left: 29%;
 }
 .jumbotron{
     background-image: url(/images/jbg.jpg); 
@@ -47,6 +47,7 @@ th:hover{
 }
 .h6ed{
     color:rgb(7, 234, 241);
+
 }
 #profPos{
     margin-top: 0px;
