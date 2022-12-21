@@ -1,7 +1,7 @@
 
 body {
     background-color: #081320;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 12px;
     color: #ACC8E5;
     margin: 0px;
@@ -21,7 +21,7 @@ body {
   color:  yellow;
   display: block;
 }
-th:hover{
+.menu th:hover{
     background-color: #acc8e579;
     border-radius: 10px;
     display: block;
@@ -29,6 +29,28 @@ th:hover{
 .main_c{
     margin-left: 29%;
 }
+#sections p{
+    font-size: 13px;
+}
+#sections h4{
+    color: yellow;
+    margin-top: 15px;
+}
+#sections h5{
+    font-weight:bold;
+    color:aqua;
+    background-color: #081320;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: medium;
+}
+#sections h6{
+    font-weight:bold;
+    color:yellow;
+    margin-bottom: 0px;
+    font-size: 15px;
+}
+
 .jumbotron{
     background-image: url(/images/jbg.jpg); 
     color: yellow;
@@ -49,6 +71,9 @@ th:hover{
     color:rgb(7, 234, 241);
 
 }
+.table p{
+    color: #ACC8E5;
+}
 #profPos{
     margin-top: 0px;
 }
@@ -61,7 +86,58 @@ th:hover{
     font-size:15px;
 }
 
-#kskil{
+#sections table{
     background-color: #112A46;
     border-radius: 10px;
+}
+#sections table p{
+    margin-left: 5px;
+}
+#kskil th{
+    width: 50%;
+}
+#eds p{
+    margin-bottom: 0px;
+    
+}
+.logo img{
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+}
+.logo{
+width: 5%;
+}
+.school{
+ 
+}
+.s_name{
+    font-weight:bold;
+    color:aqua;
+    background-color: #081320;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: medium;
+    margin-top: auto;
+}
+
+.s_Ad{
+    padding-left: 10px;
+}
+.s_year{
+    padding-left: 10px;
+}
+
+#tss th{
+    width: 30%;
+}
+#tss p{
+    margin-bottom: 0;
+}
+
+#rd th{
+    width: 50%;
+}
+#rd p{
+    margin-bottom: 5px;
 }
