@@ -157,3 +157,8 @@ width: 5%;
 width: 33%;
 }
 
+#char h6{
+    padding-left: 10px;
+    font-size: small;
+    font-weight: lighter;
+}
