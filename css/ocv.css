@@ -9,14 +9,17 @@ body {
 }
 .menu{
     height: 100%;
-  width: 25%;
+  width:20%;
   position: fixed;
-  z-index: 100;
+  z-index: 1;
 }
 .menu table{
-    margin-top: 50%;
+    /* width:20%; */
+    margin-top: 25%;
+    padding-left: 10px;
 }
 .menu table a{
+    /* width:15%; */
   text-decoration: none;
   color:  yellow;
   display: block;
@@ -27,7 +30,7 @@ body {
     display: block;
 }
 .main_c{
-    margin-left: 29%;
+    margin-left: 22%;
 }
 #sections p{
     font-size: 13px;
@@ -141,3 +144,14 @@ width: 5%;
 #rd p{
     margin-bottom: 5px;
 }
+
+.afname{
+    padding: 10px;
+    background-color: #081320;
+    border-radius: 20px;
+}
+
+#af h6{
+    color:#ACC8E5;
+}
+
